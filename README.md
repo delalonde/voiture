@@ -1,3 +1,2 @@
 # voiture
-This is a test repository
-I am trying to use the lists
+This is a test project for GitHUB
